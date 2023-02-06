@@ -1,4 +1,5 @@
 is:open draft:false -label:S-blocked label:S-waiting-on-author __status_updated:{{param|relative_date}},>1|today,3..1|last 3 days,7..4|last week,14..8|last 2 weeks,30..15|last month,90..31|last 3 months,180..91|last 6 months,<180|more than 6 months
+2023-02-05,1,9,13,14,27,50,44,25
 2023-02-04,2,12,12,14,29,46,43,25
 2023-02-03,0,13,14,11,31,45,43,28
 2023-02-01,0,12,10,12,32,41,43,27

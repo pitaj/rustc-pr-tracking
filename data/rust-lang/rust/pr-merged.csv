@@ -1,4 +1,5 @@
 "is:closed closed:{{"">1""|relative_date}} {{param}}",is:merged label:merged-by-bors|merged by bors,is:merged -label:merged-by-bors|rolled up,is:unmerged label:rollup|failed rollup,is:unmerged -label:rollup|not merged
+2023-02-05,9,11,0,2
 2023-02-04,12,20,1,5
 2023-02-03,7,12,2,7
 2023-02-01,7,8,2,1
